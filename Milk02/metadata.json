@@ -1,0 +1,6 @@
+{
+  "name": "PureDairy India Website",
+  "description": "A modern landing page for PureDairy India, a dairy products company in North India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
